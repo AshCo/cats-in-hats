@@ -1,0 +1,45 @@
+html {
+  height: 100%;
+  color: #fff;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  font-family: helvetica;
+  background-color: #FF7D84;
+  text-align: center;
+}
+
+header {
+  background-color: #7F3F42;
+  text-align: center;
+  font-size: 40px;
+  padding: 24px;
+}
+
+aside {
+  background-color: #FF7177;
+    /*Check this out sometime*/
+    /*display: inline;*/
+}
+
+aside img {
+  height: 48px;
+  width: 60px;
+}
+
+footer {
+  background-color: #401F21;
+  font-size: 14px;
+  padding: 4px;
+}
+
+footer p {
+  padding-left: 20px;
+}
+
+.headcats {
+  max-height: 240px;
+  max-width: 300px;
+}
